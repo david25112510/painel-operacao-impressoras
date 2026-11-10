@@ -1,0 +1,41 @@
+# Python environments and caches
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+*.pyd
+.env
+.env.*
+
+# PyInstaller output and temporary build state
+build/
+dist/
+work/
+release/
+*.spec
+
+# Runtime database, credentials, certificates, logs, exports and backups
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+servidor.pem
+servidor-chave.pem
+cliente.json
+conexao.txt
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.csv
+*.xlsx
+*.zip
+backup_*.sqlite3
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

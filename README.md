@@ -72,4 +72,4 @@ Use o serviço somente em rede privada. SNMP v1/v2c não criptografa comunidades
 
 ## Licença
 
-O projeto está preparado com uma licença MIT proposta. A licença é exibida em [LICENSE](LICENSE); confirme a autorização do titular antes da publicação pública.
+O projeto é distribuído sob a licença MIT; consulte [LICENSE](LICENSE).
